@@ -1,0 +1,10 @@
+name: shiny_app_wordpredictor
+account: neo-r-apps
+server: shinyapps.io
+appId: 105018
+bundleId: 472222
+url: https://neo-r-apps.shinyapps.io/shiny_app_wordpredictor/
+when: 1465140940.89464
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: common_words.txt|train_sentence21.RData|twit_file.RData|twito.RData|uk1000words.txt
